@@ -1,0 +1,15 @@
+h1 { text-align: center;
+
+}
+
+body{
+
+    background-image: url(saco\ de\ dinheiro.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body	{
+    border-color:	rgb(242, 247, 0);
+    border-style:	solid;
+    border-width: 10px;
+}
